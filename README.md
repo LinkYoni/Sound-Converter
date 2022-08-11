@@ -13,11 +13,13 @@ apt-get install python3
 apt-get install python3-pip
 pip3 install -r requirements.txt
 git clone https://github.com/LinkYoni/Sound-Converter
+Download: https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n5.1-latest-win64-gpl-5.1.zip
 ```
 
 ## 🔨 ➜ How to use
 
 ```
+Go to the file downloaded: "ffmpeg-n5.1-latest-win64-gpl-5.1/bin", copy the three executables and paste them in your Sound-Converter folder
 Open main.pyw
 Choose a format, then the file you want to convert and click start
 See your converted file in the folder "Results"
